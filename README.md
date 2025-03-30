@@ -1,6 +1,7 @@
 Data Access Layer 
 
 https://youtu.be/kubgKhxbxRk
+[![Watch the demo](https://img.youtube.com/vi/kubgKhxbxRk/hqdefault.jpg)](https://youtu.be/kubgKhxbxRk)
 
 🎥 [Watch Demo on YouTube](https://youtu.be/kubgKhxbxRk)
 
