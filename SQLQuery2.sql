@@ -1,0 +1,1 @@
+﻿DBCC CHECKIDENT ('Guns', RESEED, 0);
